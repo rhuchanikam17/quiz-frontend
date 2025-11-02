@@ -1,0 +1,327 @@
+[
+  {
+    "questionText": "Which of the following is not a Cloud Service Model?",
+    "options": [
+      "Software as a Service (SaaS)",
+      "Programming as a Service (PaaS)",
+      "Infrastructure as a Service (laaS)",
+      "Platform as a Service (PaaS)"
+    ],
+    "correctAnswer": "Programming as a Service (PaaS)"
+  },
+  {
+    "questionText": "Which of the following emerging technologies, if fully implemented would jeopardize the security of current encryption technology?",
+    "options": [
+      "Quantum Computing",
+      "Block Chain",
+      "Internet of Things",
+      "Confidential Computing"
+    ],
+    "correctAnswer": "Quantum Computing"
+  },
+  {
+    "questionText": "Cloud vendors are help to contractual obligations with specific metrics by ?",
+    "options": [
+      "Service Level Agreements (SLAs)",
+      "Regulation",
+      "Law",
+      "Discipline and fines"
+    ],
+    "correctAnswer": "Service Level Agreements (SLAs)"
+  },
+  {
+    "questionText": "drive security decisions?",
+    "options": [
+      "Customer Service Responses",
+      "Surveys",
+      "Business Requirements",
+      "Public Opinion"
+    ],
+    "correctAnswer": "Business Requirements"
+  },
+  {
+    "questionText": "If the CSC cannot get access to the cloud provider, this affects what portion of the CIA Triad?",
+    "options": [
+      "Integrity",
+      "Authentication",
+      "Confidentiality",
+      "Availability"
+    ],
+    "correctAnswer": "Availability"
+  },
+  {
+    "questionText": "You recently worked with a third-party vendor to help you implement a SaaS offering provided by a different company. Which one of the following cloud service roles is not represented here",
+    "options": ["Regulator", "Customer", "Provider", "Partner"],
+    "correctAnswer": "Regulator"
+  },
+  {
+    "questionText": "Which of the following hypervisor types is most likely to be seen in a cloud providers data center?",
+    "options": ["Type 1", "Type 2", "Type 3", "Type 4"],
+    "correctAnswer": "Type 1"
+  },
+  {
+    "questionText": "All of these are reasons an organization may want to consider cloud migration except?",
+    "options": [
+      "Reduced personnel costs",
+      "Elimination of risks",
+      "Reduced operational expenses",
+      "Increased efficiently"
+    ],
+    "correctAnswer": "Elimination of risks"
+  },
+  {
+    "questionText": "The generally accepted definition of cloud computing includes all of the following characteristics except",
+    "options": [
+      "On-demand self-service",
+      "Negating the need for backups",
+      "Resource pooling",
+      "Measured or metered service"
+    ],
+    "correctAnswer": "Negating the need for backups"
+  },
+  {
+    "questionText": "You are working on a government project designed to make sure the different cloud services uses in your organization work well together. What goal are you attempting to achieve?",
+    "options": ["Performance", "Resiliency", "Reversibility", "Interoperability"],
+    "correctAnswer": "Performance"
+  },
+  {
+    "questionText": "The risk that a customer might not be able to switch cloud providers at a later date is known as?",
+    "options": [
+      "Vendor Closure",
+      "Vendor Lock-out",
+      "Vendor Lock-in",
+      "Vendor Synchronization"
+    ],
+    "correctAnswer": "Vendor Lock-in"
+  },
+  {
+    "questionText": "All of these are characteristics of cloud computing except",
+    "options": [
+      "Broad Network Access",
+      "Diminished Elasticity",
+      "Rapid Scaling",
+      "On demand self-service"
+    ],
+    "correctAnswer": "Diminished Elasticity"
+  },
+  {
+    "questionText": "When cloud customer uploads personally identifiable information (PII) to a cloud provider, who is ultimately responsible for the security of that PII?",
+    "options": [
+      "Cloud Provider",
+      "Regulators",
+      "Cloud Customer",
+      "The individual who are the subjects of the PII"
+    ],
+    "correctAnswer": "Cloud Customer"
+  },
+  {
+    "questionText": "We use which of the following to determine the critical paths, processes and the assets of an organization?",
+    "options": [
+      "Business requirements",
+      "Business Impact Analysis",
+      "Risk Management Framework",
+      "CIA Triad"
+    ],
+    "correctAnswer": "Business Impact Analysis"
+  },
+  {
+    "questionText": "If an Organization owns all of the hardware and infrastructure of a cloud data center that is used only by members of that organization which cloud deployment model would this be?",
+    "options": ["Private", "Public", "Hybrid", "Community"],
+    "correctAnswer": "Private"
+  },
+  {
+    "questionText": "If the cloud deployment model that features ownership by a cloud provider, with services offered to anyone who wants to subscribe is known as",
+    "options": ["Private", "Public", "Hybrid", "Community"],
+    "correctAnswer": "Public"
+  },
+  {
+    "questionText": "The cloud deployment model that features joint ownership of assets among an affinity group is known as",
+    "options": ["Private", "Public", "Hybrid", "Community"],
+    "correctAnswer": "Community"
+  },
+  {
+    "questionText": "You are concerned that a attacker might be able to use a guest virtual machine to gain access to the underlying hypervisor. What term describes this threat?",
+    "options": [
+      "VM Escape",
+      "SQL Injection",
+      "Man-in-the-Middle attack",
+      "VM Sprawl"
+    ],
+    "correctAnswer": "VM Escape"
+  },
+  {
+    "questionText": "If you are considering purchasing an e-commerce system where the cloud provider runs a hosted application on their own servers. What cloud service category is the provider offering?",
+    "options": ["laas", "PaaS", "SaaS", "FaaS"],
+    "correctAnswer": "SaaS"
+  },
+  {
+    "questionText": "If a cloud customer wants to build their own computing environment using storage, networking and computer resources offered by a cloud provider, which cloud service category would probably be best?",
+    "options": ["laas", "PaaS", "SaaS", "FaaS"],
+    "correctAnswer": "laas"
+  },
+  {
+    "questionText": "Which of the following is not a common method of data discovery?",
+    "options": [
+      "Content-Based",
+      "User-Based",
+      "Label-Based",
+      "Metadata- Based"
+    ],
+    "correctAnswer": "User-Based"
+  },
+  {
+    "questionText": "Sara is planning to implement data labeling for her organization. Which of the following is not a data label field that she should consider?",
+    "options": [
+      "Date data was created",
+      "Data owner",
+      "Data Value",
+      "Date of scheduled destruction"
+    ],
+    "correctAnswer": "Data Value"
+  },
+  {
+    "questionText": "Sarah is continuing her data labeling efforts and has received suggestions for appropriate data label for data that will be used in multiple countries in which her company operates as part of ongoing security and data lifecycle efforts. Which of the following is not a label that would help with that usage?",
+    "options": ["Source", "Language", "Handling restrictions", "Jurisdiction"],
+    "correctAnswer": "Language"
+  },
+  {
+    "questionText": "Asha wants to document the path that data takes from creation to storage in her institution's database. As part of that effort, she creates a data flow diagram. Which of the following is not a common element of data flow diagram?",
+    "options": [
+      "Credential used for each service listed",
+      "Hostnames and IP addresses or address blocks for each system involved",
+      "Ports and protocols used for data transfer",
+      "Security Controls used at each point in the diagram"
+    ],
+    "correctAnswer": "Credential used for each service listed"
+  },
+  {
+    "questionText": "Mei wants to conduct data discovery activities in her organization. Which of the following types of data discovery is best suited for identifying all photos that were taken using a specific model of camera based on the original files generated by the camera?",
+    "options": ["Label-based", "Metadata-based", "Extension-based", "Content-based"],
+    "correctAnswer": "Metadata-based"
+  },
+  {
+    "questionText": "Felix wants to monitor data transfers between two systems inside of his laaS cloud-hosted data center. Which of the following audit mechanism is unlikely to be available to him that is commonly available in on-premise environments?",
+    "options": [
+      "Log review",
+      "Packet capture",
+      "Data flow diagram",
+      "Log correlation"
+    ],
+    "correctAnswer": "Packet capture"
+  },
+  {
+    "questionText": "Megan is documenting roles as part of the implementation of her organization's data classification policy. Her organization uses a SaaS tool to accept applications from customers. What term best describes the SaaS vendor?",
+    "options": ["Data custodian", "Data owner", "Data Processor", "Data steward"],
+    "correctAnswer": "Data Processor"
+  },
+  {
+    "questionText": "Jamie has been informed of legal actions against his company and must now ensure that data relevant to the case is kept. What term describes this?",
+    "options": ["Legal retention", "Legal archiving", "Court hold", "Legal hold"],
+    "correctAnswer": "Legal hold"
+  },
+  {
+    "questionText": "All policies within the organization should include a section that includes all of the following except?",
+    "options": [
+      "Policy Maintenance",
+      "Policy Monitoring",
+      "Policy Enforcement",
+      "Policy Transference"
+    ],
+    "correctAnswer": "Policy Transference"
+  },
+  {
+    "questionText": "Melissa knows that many data destruction options are not available for data kept in the cloud due to how the services are architected using shared hardware and services. Which of the following is the best option for her organization to select for cloud-hosted data that must be disposed of in a secure manner?",
+    "options": ["Melting", "Crypto-shredding", "Zeroization", "Overwriting"],
+    "correctAnswer": "Crypto-shredding"
+  },
+  {
+    "questionText": "Which of the following is not a common data right controlled by an IRM system?",
+    "options": ["Copyright", "Creating", "Editing", "Viewing"],
+    "correctAnswer": "Copyright"
+  },
+  {
+    "questionText": "Jason wants to properly describe the type of data his organization is using. He knows that the data is stored in MySQL database. What type of data is Jason's org storing?",
+    "options": [
+      "Unstructured Data",
+      "Tabular Data",
+      "Structured Data",
+      "Warehouse Data"
+    ],
+    "correctAnswer": "Structured Data"
+  },
+  {
+    "questionText": "Sensitivity. Jurisdiction, and criticality might all be considered for what cloud data security activity?",
+    "options": [
+      "Crypto-Shredding",
+      "Data flow diagramming",
+      "Classification",
+      "Tokenization"
+    ],
+    "correctAnswer": "Classification"
+  },
+  {
+    "questionText": "Angela wants to provide users with access rights to files based on their roles. What capability of an IRM system most directly supports this requirement?",
+    "options": ["Provisioning", "DRM", "CRM", "Data Labeling"],
+    "correctAnswer": "Provisioning"
+  },
+  {
+    "questionText": "Nina's company has stored unstructured data in an S3 bucket in AWS. She wants to perform data discovery on the data, but the discovery tool that she has requires the data to be local. What concern should Nina express about retrieving large volumes of data from cloud services?",
+    "options": [
+      "Performance may be low",
+      "Data ingress costs may be high",
+      "Data egress costs may be high",
+      "Data will need to be structured before discovery can run."
+    ],
+    "correctAnswer": "Data egress costs may be high"
+  },
+  {
+    "questionText": "Tej wants to conduct data discovery across his organization's databases; however, he knows that data is stored in multiple countries. What concern should he raise before the discovery process is conducted?",
+    "options": [
+      "Structured data is harder to conduct discovery on",
+      "The discovery process may create a denial of service condition on DB",
+      "Jurisdiction and local laws may impact the ability to perform discovery",
+      "Unstructured data is harder to conduct discovery on"
+    ],
+    "correctAnswer": "Jurisdiction and local laws may impact the ability to perform discovery"
+  },
+  {
+    "questionText": "Naomi has implemented a data archiving process as part of her organization's cloud design. What important part of her archiving plan should she prioritize to ensure its long-term success?",
+    "options": [
+      "Data Classification",
+      "Periodic testing",
+      "Data mapping",
+      "Hashing"
+    ],
+    "correctAnswer": "Periodic testing"
+  },
+  {
+    "questionText": "Yasine's organization wants to enable systems to use data controlled by an IRM. What method is most commonly used to identify systems while allowing them to have their trust revoked if needed?",
+    "options": [
+      "LEAP Authentication",
+      "Multi-factor authentication (MFA)",
+      "Certificate based authentication and authorization",
+      "TACACS"
+    ],
+    "correctAnswer": "Certificate based authentication and authorization"
+  },
+  {
+    "questionText": "Meena is conducting data discovery with data encoded in JSON. What type of data is she working with?",
+    "options": [
+      "Structured",
+      "Semi-structured",
+      "Super-structured",
+      "Unstructured"
+    ],
+    "correctAnswer": "Semi-structured"
+  },
+  {
+    "questionText": "Isaac wants to describe common information rights management (IRM) functions to his team. Which of the following is not a common IRM function?",
+    "options": [
+      "Persistency",
+      "Crypto-shredding",
+      "Automatic Expiration",
+      "Dynamic Policy control"
+    ],
+    "correctAnswer": "Crypto-shredding"
+  }
+]
